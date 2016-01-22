@@ -1,1 +1,5 @@
-This is a the Test File. All members make an edit to thks file:
+This is a the Test File. All members make an edit to this file:
+aaron-schuman 	- edited
+lingram		- unedited
+kliang		- unedited
+JPeard		- unedited
