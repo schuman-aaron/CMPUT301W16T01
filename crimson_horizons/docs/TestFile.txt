@@ -1,6 +1,6 @@
 This is a the Test File. All members make an edit to this file:
 aaron-schuman 	- edited
-lingram		- unedited
+lingram		- edited
 kliang		- unedited
 JPeard		- edited
 jero1994	- edited
